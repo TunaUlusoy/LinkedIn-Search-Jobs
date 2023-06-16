@@ -1,0 +1,298 @@
+[
+    {
+        "dashEntityUrn": "urn:li:fsd_jobPosting:3607588982",
+        "companyDetails": {
+            "company": "urn:li:fs_normalized_company:276104",
+            "*companyResolutionResult": "urn:li:fs_normalized_company:276104",
+            "$recipeTypes": [
+                "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"
+            ],
+            "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+        },
+        "formattedLocation": "Dortmund, North Rhine-Westphalia, Germany",
+        "listedAt": 1686902144000,
+        "title": "Backend Developer und Consultant (w/d/m)",
+        "$recipeTypes": [
+            "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"
+        ],
+        "$type": "com.linkedin.voyager.jobs.JobPosting",
+        "entityUrn": "urn:li:fs_normalized_jobPosting:3607588982",
+        "workRemoteAllowed": false
+    },
+    {
+        "dashEntityUrn": "urn:li:fsd_jobPosting:3637540615",
+        "companyDetails": {
+            "company": "urn:li:fs_normalized_company:79046256",
+            "*companyResolutionResult": "urn:li:fs_normalized_company:79046256",
+            "$recipeTypes": [
+                "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"
+            ],
+            "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+        },
+        "formattedLocation": "Offenbach, Hesse, Germany",
+        "listedAt": 1686847846000,
+        "title": "Consultant Steuerberatung (w/m/d)",
+        "$recipeTypes": [
+            "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"
+        ],
+        "$type": "com.linkedin.voyager.jobs.JobPosting",
+        "entityUrn": "urn:li:fs_normalized_jobPosting:3637540615",
+        "workRemoteAllowed": false
+    },
+    {
+        "dashEntityUrn": "urn:li:fsd_jobPosting:3637577285",
+        "companyDetails": {
+            "$type": "com.linkedin.voyager.jobs.JobPostingCompanyName",
+            "companyName": "absoluts -bikes and more- GmbH u. Co. KG"
+        },
+        "formattedLocation": "Prien am Chiemsee, Bavaria, Germany",
+        "listedAt": 1686852503000,
+        "title": "Fachverk\u00e4ufer-Sportartikel / Bike-Berater (m/w/d)",
+        "$recipeTypes": [
+            "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"
+        ],
+        "$type": "com.linkedin.voyager.jobs.JobPosting",
+        "entityUrn": "urn:li:fs_normalized_jobPosting:3637577285",
+        "workRemoteAllowed": false
+    },
+    {
+        "dashEntityUrn": "urn:li:fsd_jobPosting:3636119949",
+        "companyDetails": {
+            "company": "urn:li:fs_normalized_company:11333481",
+            "*companyResolutionResult": "urn:li:fs_normalized_company:11333481",
+            "$recipeTypes": [
+                "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"
+            ],
+            "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+        },
+        "formattedLocation": "H\u00fcnfelden, Hesse, Germany",
+        "listedAt": 1686914817000,
+        "title": "Als Fullstack Developer & Consultant (w/d/m) at intermedia Peters GmbH Werbeagentur",
+        "$recipeTypes": [
+            "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"
+        ],
+        "$type": "com.linkedin.voyager.jobs.JobPosting",
+        "entityUrn": "urn:li:fs_normalized_jobPosting:3636119949",
+        "workRemoteAllowed": false
+    },
+    {
+        "dashEntityUrn": "urn:li:fsd_jobPosting:3636006821",
+        "companyDetails": {
+            "company": "urn:li:fs_normalized_company:35681704",
+            "*companyResolutionResult": "urn:li:fs_normalized_company:35681704",
+            "$recipeTypes": [
+                "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"
+            ],
+            "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+        },
+        "formattedLocation": "Freiburg, Baden-W\u00fcrttemberg, Germany",
+        "listedAt": 1686871646000,
+        "title": "Consultant (w/m/d) Personaldienstleistung in Freiburg",
+        "$recipeTypes": [
+            "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"
+        ],
+        "$type": "com.linkedin.voyager.jobs.JobPosting",
+        "entityUrn": "urn:li:fs_normalized_jobPosting:3636006821",
+        "workRemoteAllowed": false
+    },
+    {
+        "dashEntityUrn": "urn:li:fsd_jobPosting:3635611516",
+        "companyDetails": {
+            "company": "urn:li:fs_normalized_company:42919907",
+            "*companyResolutionResult": "urn:li:fs_normalized_company:42919907",
+            "$recipeTypes": [
+                "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"
+            ],
+            "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+        },
+        "formattedLocation": "Demitz-Thumitz, Saxony, Germany",
+        "listedAt": 1686850023000,
+        "title": "Datenschutzbeauftragter/ Manager Datenschutz m/w/d",
+        "$recipeTypes": [
+            "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"
+        ],
+        "$type": "com.linkedin.voyager.jobs.JobPosting",
+        "entityUrn": "urn:li:fs_normalized_jobPosting:3635611516",
+        "workRemoteAllowed": false
+    },
+    {
+        "dashEntityUrn": "urn:li:fsd_jobPosting:3636054276",
+        "companyDetails": {
+            "company": "urn:li:fs_normalized_company:36278377",
+            "*companyResolutionResult": "urn:li:fs_normalized_company:36278377",
+            "$recipeTypes": [
+                "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"
+            ],
+            "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+        },
+        "formattedLocation": "W\u00fcrzburg, Bavaria, Germany",
+        "listedAt": 1686893130000,
+        "title": "Berater (m/w/d) im Bereich Ausschreibungsbetreuung",
+        "$recipeTypes": [
+            "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"
+        ],
+        "$type": "com.linkedin.voyager.jobs.JobPosting",
+        "entityUrn": "urn:li:fs_normalized_jobPosting:3636054276",
+        "workRemoteAllowed": false
+    },
+    {
+        "dashEntityUrn": "urn:li:fsd_jobPosting:3638106549",
+        "companyDetails": {
+            "company": "urn:li:fs_normalized_company:2571522",
+            "*companyResolutionResult": "urn:li:fs_normalized_company:2571522",
+            "$recipeTypes": [
+                "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"
+            ],
+            "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+        },
+        "formattedLocation": "Cologne, North Rhine-Westphalia, Germany",
+        "listedAt": 1686916367000,
+        "title": "Consultant (m/w/d)",
+        "$recipeTypes": [
+            "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"
+        ],
+        "$type": "com.linkedin.voyager.jobs.JobPosting",
+        "entityUrn": "urn:li:fs_normalized_jobPosting:3638106549",
+        "workRemoteAllowed": false
+    },
+    {
+        "dashEntityUrn": "urn:li:fsd_jobPosting:3636166453",
+        "companyDetails": {
+            "company": "urn:li:fs_normalized_company:11333481",
+            "*companyResolutionResult": "urn:li:fs_normalized_company:11333481",
+            "$recipeTypes": [
+                "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"
+            ],
+            "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+        },
+        "formattedLocation": "Berlin, Berlin, Germany",
+        "listedAt": 1686915346000,
+        "title": "Entwickler und Berater f\u00fcr Handelssoftware im Energiebereich (Junior)",
+        "$recipeTypes": [
+            "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"
+        ],
+        "$type": "com.linkedin.voyager.jobs.JobPosting",
+        "entityUrn": "urn:li:fs_normalized_jobPosting:3636166453",
+        "workRemoteAllowed": false
+    },
+    {
+        "dashEntityUrn": "urn:li:fsd_jobPosting:3607595097",
+        "companyDetails": {
+            "company": "urn:li:fs_normalized_company:276104",
+            "*companyResolutionResult": "urn:li:fs_normalized_company:276104",
+            "$recipeTypes": [
+                "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"
+            ],
+            "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+        },
+        "formattedLocation": "Berlin, Berlin, Germany",
+        "listedAt": 1686899447000,
+        "title": "Backend Developer und Consultant (w/d/m)",
+        "$recipeTypes": [
+            "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"
+        ],
+        "$type": "com.linkedin.voyager.jobs.JobPosting",
+        "entityUrn": "urn:li:fs_normalized_jobPosting:3607595097",
+        "workRemoteAllowed": false
+    },
+    {
+        "dashEntityUrn": "urn:li:fsd_jobPosting:3607595096",
+        "companyDetails": {
+            "company": "urn:li:fs_normalized_company:276104",
+            "*companyResolutionResult": "urn:li:fs_normalized_company:276104",
+            "$recipeTypes": [
+                "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"
+            ],
+            "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+        },
+        "formattedLocation": "Hamburg, Hamburg, Germany",
+        "listedAt": 1686899437000,
+        "title": "Backend Developer und Consultant (w/d/m)",
+        "$recipeTypes": [
+            "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"
+        ],
+        "$type": "com.linkedin.voyager.jobs.JobPosting",
+        "entityUrn": "urn:li:fs_normalized_jobPosting:3607595096",
+        "workRemoteAllowed": false
+    },
+    {
+        "dashEntityUrn": "urn:li:fsd_jobPosting:3635607980",
+        "companyDetails": {
+            "company": "urn:li:fs_normalized_company:1985679",
+            "*companyResolutionResult": "urn:li:fs_normalized_company:1985679",
+            "$recipeTypes": [
+                "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"
+            ],
+            "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+        },
+        "formattedLocation": "Dresden, Saxony, Germany",
+        "listedAt": 1686850138000,
+        "title": "ALM Consultant (m/w/d)",
+        "$recipeTypes": [
+            "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"
+        ],
+        "$type": "com.linkedin.voyager.jobs.JobPosting",
+        "entityUrn": "urn:li:fs_normalized_jobPosting:3635607980",
+        "workRemoteAllowed": false
+    },
+    {
+        "dashEntityUrn": "urn:li:fsd_jobPosting:3607594373",
+        "companyDetails": {
+            "company": "urn:li:fs_normalized_company:276104",
+            "*companyResolutionResult": "urn:li:fs_normalized_company:276104",
+            "$recipeTypes": [
+                "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"
+            ],
+            "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+        },
+        "formattedLocation": "Karlsruhe, Baden-W\u00fcrttemberg, Germany",
+        "listedAt": 1686902739000,
+        "title": "Backend Developer und Consultant (w/d/m)",
+        "$recipeTypes": [
+            "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"
+        ],
+        "$type": "com.linkedin.voyager.jobs.JobPosting",
+        "entityUrn": "urn:li:fs_normalized_jobPosting:3607594373",
+        "workRemoteAllowed": false
+    },
+    {
+        "dashEntityUrn": "urn:li:fsd_jobPosting:3021237406",
+        "companyDetails": {
+            "company": "urn:li:fs_normalized_company:5394225",
+            "*companyResolutionResult": "urn:li:fs_normalized_company:5394225",
+            "$recipeTypes": [
+                "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"
+            ],
+            "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+        },
+        "formattedLocation": "Hamburg, Hamburg, Germany",
+        "listedAt": 1686913063000,
+        "title": "Consultant Finance Consulting Jump Start Program (f/m/d)",
+        "$recipeTypes": [
+            "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"
+        ],
+        "$type": "com.linkedin.voyager.jobs.JobPosting",
+        "entityUrn": "urn:li:fs_normalized_jobPosting:3021237406",
+        "workRemoteAllowed": false
+    },
+    {
+        "dashEntityUrn": "urn:li:fsd_jobPosting:3607592675",
+        "companyDetails": {
+            "company": "urn:li:fs_normalized_company:276104",
+            "*companyResolutionResult": "urn:li:fs_normalized_company:276104",
+            "$recipeTypes": [
+                "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"
+            ],
+            "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+        },
+        "formattedLocation": "Munster, Lower Saxony, Germany",
+        "listedAt": 1686904042000,
+        "title": "Backend Developer und Consultant (w/d/m)",
+        "$recipeTypes": [
+            "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"
+        ],
+        "$type": "com.linkedin.voyager.jobs.JobPosting",
+        "entityUrn": "urn:li:fs_normalized_jobPosting:3607592675",
+        "workRemoteAllowed": false
+    }
+]

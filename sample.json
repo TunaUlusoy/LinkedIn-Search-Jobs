@@ -1,0 +1,485 @@
+{
+    "industryName": "IT Services and IT Consulting",
+    "lastName": "Ersoy",
+    "locationName": "Turkey",
+    "student": false,
+    "geoCountryName": "Turkey",
+    "geoCountryUrn": "urn:li:fs_geo:102105699",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 6,
+        "day": 15
+    },
+    "industryUrn": "urn:li:fs_industry:96",
+    "firstName": "B\u00fc\u015fra",
+    "entityUrn": "urn:li:fs_profile:ACoAACi5YK4BDSBAltAqvnf9N9oW9tSQqZWKjNM",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102424322"
+    },
+    "geoLocationName": "Istanbul",
+    "location": {
+        "basicLocation": {
+            "countryCode": "tr"
+        }
+    },
+    "headline": "IT Recruiter",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4D03AQGbAuiVxs03Ew/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1670859491494?e=1692230400&v=beta&t=J5XEaFtaSICTEu8NmbWwld9GEu5jNckE2wb9XVxX9Qg",
+    "img_200_200": "200_200/0/1670859491494?e=1692230400&v=beta&t=9OtneLvZpusLDYB67AnLwvAn63EdnlVweO9p1bRfXMs",
+    "img_400_400": "400_400/0/1670859491494?e=1692230400&v=beta&t=FuJe6mq0trPp5CgRT7VAAFDLLTdYDObjhaQ1d8jgXSw",
+    "img_800_800": "800_800/0/1670859491494?e=1692230400&v=beta&t=A-s-N4UbM0meAplOD7nQKxc4AhMQQiR3rY6Qj43cCUk",
+    "profile_id": "ACoAACi5YK4BDSBAltAqvnf9N9oW9tSQqZWKjNM",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAACi5YK4BDSBAltAqvnf9N9oW9tSQqZWKjNM",
+    "member_urn": "urn:li:member:683237550",
+    "public_id": "b\u00fc\u015fra-ersoy-126994170",
+    "experience": [
+        {
+            "locationName": "Istanbul, Turkey",
+            "entityUrn": "urn:li:fs_position:(ACoAACi5YK4BDSBAltAqvnf9N9oW9tSQqZWKjNM,1538244506)",
+            "geoLocationName": "Istanbul, Turkey",
+            "geoUrn": "urn:li:fs_geo:100170895",
+            "companyName": "BilgeAdam Teknoloji",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2021
+                }
+            },
+            "description": "My responsibilities;\n\u2022\tTo be in a privileged talent pool/be able to find a talent from a privileged talent pool\n\u2022\tTo stay in touch throughout the recruiting process even during onboarding\n\u2022\tTo analyze customer needs with a systematic approach and define the ideal candidate correctly\n\u2022\tTo close relationship with all clients and providing top to down information flow about all processes,\n\u2022\tTo keep up with constantly changing recruiting trends",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "IT Recruiter",
+            "region": "urn:li:fs_region:(tr,7585)",
+            "companyUrn": "urn:li:fs_miniCompany:46044",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQFCTJIgpT5c7Q/company-logo_"
+        },
+        {
+            "locationName": "\u0130stanbul, T\u00fcrkiye",
+            "entityUrn": "urn:li:fs_position:(ACoAACi5YK4BDSBAltAqvnf9N9oW9tSQqZWKjNM,1778966056)",
+            "geoLocationName": "\u0130stanbul, T\u00fcrkiye",
+            "geoUrn": "urn:li:fs_geo:102424322",
+            "companyName": "BilgeAdam Teknoloji",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2019
+                }
+            },
+            "description": "My responsibilities;\n\u2022\tFinding the appropriate candidates from different channels\n\u2022\tOrganizing interviews with appropriate candidates\n\u2022\tMaking phone interviews with appropriate candidates \n\u2022\tAttending job interviews with the recruitment executive",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Recruitment Assistant",
+            "region": "urn:li:fs_region:(tr,0)",
+            "companyUrn": "urn:li:fs_miniCompany:46044",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQFCTJIgpT5c7Q/company-logo_"
+        },
+        {
+            "locationName": "Istanbul, Turkey",
+            "entityUrn": "urn:li:fs_position:(ACoAACi5YK4BDSBAltAqvnf9N9oW9tSQqZWKjNM,1466319515)",
+            "geoLocationName": "Istanbul, Turkey",
+            "geoUrn": "urn:li:fs_geo:100170895",
+            "companyName": "TalenTown HR & IT Consultancy",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Human Resources"
+                ]
+            },
+            "title": "Recruiment Intern",
+            "region": "urn:li:fs_region:(tr,7585)",
+            "companyUrn": "urn:li:fs_miniCompany:10972407",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQG1jNX_DFAznA/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAACi5YK4BDSBAltAqvnf9N9oW9tSQqZWKjNM,1420596115)",
+            "companyName": "\u0130\u015fNet",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Human Resources Intern",
+            "companyUrn": "urn:li:fs_miniCompany:75489",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQER6HCiXI3A8Q/company-logo_"
+        },
+        {
+            "locationName": "Istanbul, Turkey",
+            "entityUrn": "urn:li:fs_position:(ACoAACi5YK4BDSBAltAqvnf9N9oW9tSQqZWKjNM,1372281545)",
+            "geoLocationName": "Istanbul, Turkey",
+            "geoUrn": "urn:li:fs_geo:100170895",
+            "companyName": "ERGO Sigorta",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Insurance"
+                ]
+            },
+            "title": "Human Resources Intern",
+            "region": "urn:li:fs_region:(tr,7585)",
+            "companyUrn": "urn:li:fs_miniCompany:1325476",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQEnh_YIhjYpBg/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACi5YK4BDSBAltAqvnf9N9oW9tSQqZWKjNM,683438447)",
+            "school": {
+                "objectUrn": "urn:li:school:17370",
+                "entityUrn": "urn:li:fs_miniSchool:17370",
+                "active": true,
+                "schoolName": "Istanbul University",
+                "trackingId": "VZFUGl5QREKuTabQ/YZ30A==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQENkqvGxaI4LA/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2024
+                },
+                "startDate": {
+                    "year": 2020
+                }
+            },
+            "schoolName": "\u0130stanbul \u00dcniversitesi",
+            "fieldOfStudy": "Y\u00f6netim Bili\u015fim Sistemleri",
+            "schoolUrn": "urn:li:fs_miniSchool:17370"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACi5YK4BDSBAltAqvnf9N9oW9tSQqZWKjNM,554015253)",
+            "school": {
+                "objectUrn": "urn:li:school:17393",
+                "entityUrn": "urn:li:fs_miniSchool:17393",
+                "active": true,
+                "schoolName": "Sakarya University",
+                "trackingId": "X3j4tCgNTI6NIYrzBwKjdQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQF_1KIQsw41mA/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2019
+                },
+                "startDate": {
+                    "year": 2015
+                }
+            },
+            "degreeName": "Lisans Derecesi",
+            "schoolName": "Sakarya \u00dcniversitesi",
+            "fieldOfStudy": "\u00c7al\u0131\u015fma Ekonomisi ve End\u00fcstri \u0130li\u015fkileri",
+            "degreeUrn": "urn:li:fs_degree:200",
+            "schoolUrn": "urn:li:fs_miniSchool:17393"
+        }
+    ],
+    "languages": [
+        {
+            "name": "\u0130ngilizce"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "SA\u00dc \u0130nsan Kaynaklar\u0131 ve Kariyer Kul\u00fcb\u00fc",
+            "name": "12.Ki\u015fisel Geli\u015fim ve Giri\u015fimcilik G\u00fcnleri",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2016
+                }
+            }
+        },
+        {
+            "authority": "Sakarya \u00dcniversitesi",
+            "name": "NLP \u0130LE K\u0130\u015e\u0130SEL FARKINDALIK STRATEJ\u0130S\u0130 E\u011e\u0130T\u0130M\u0130",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:891981",
+                "entityUrn": "urn:li:fs_miniCompany:891981",
+                "name": "Sakarya University",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1680172138011?e=1695254400&v=beta&t=ef1cWq5JBeE4wbbc7o-vqvmtdmcASiSnzDsjJIfwjWQ",
+                                "expiresAt": 1695254400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1680172138011?e=1695254400&v=beta&t=Wluj_wpSAZXEV7h1Z0AiIcqpoFHqGg26aZJM7wvervY",
+                                "expiresAt": 1695254400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1680172138011?e=1695254400&v=beta&t=0ClZ55OYsasLUy4V1RPXOnkewWA35ZYvu9e5TVHSM3Q",
+                                "expiresAt": 1695254400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQF_1KIQsw41mA/company-logo_"
+                    }
+                },
+                "universalName": "sakaryauni",
+                "dashCompanyUrn": "urn:li:fsd_company:891981",
+                "trackingId": "iIh1ogo1Q+2+tNWKICVJ6A=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:891981"
+        },
+        {
+            "authority": "\u0130stanbul \u0130\u015fletme Enstit\u00fcs\u00fc",
+            "name": "\u0130\u015fe Al\u0131m ve M\u00fclakat Teknikleri E\u011fitimi",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2020
+                }
+            },
+            "licenseNumber": "140600390019",
+            "company": {
+                "objectUrn": "urn:li:company:5323352",
+                "entityUrn": "urn:li:fs_miniCompany:5323352",
+                "name": "IIENSTITU",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1562767462537?e=1695254400&v=beta&t=R3BOQOsLdXTRWzkIomFoszlOsPLMxynrkpNDN8GuZcg",
+                                "expiresAt": 1695254400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1562767462537?e=1695254400&v=beta&t=BDT2bDWjFzBkqPLqT9JVeDz5ph8mPwatmuYElgjLs7M",
+                                "expiresAt": 1695254400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1562767462537?e=1695254400&v=beta&t=Uki4lQHYNequX2qwiQISf6m5UWkoR8GvDrrJP1XLXc8",
+                                "expiresAt": 1695254400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQGOk06T_rCdng/company-logo_"
+                    }
+                },
+                "universalName": "istanbul-i\u015fletme-enstit\u00fcs\u00fc",
+                "dashCompanyUrn": "urn:li:fsd_company:5323352",
+                "trackingId": "MXxuX0FrSP+NgDejyTuAfg=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:5323352"
+        },
+        {
+            "authority": "\u0130stanbul \u0130\u015fletme Enstit\u00fcs\u00fc",
+            "name": "\u0130nsan Kaynaklar\u0131 Asistanl\u0131\u011f\u0131",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2020
+                }
+            },
+            "licenseNumber": "140600460162",
+            "company": {
+                "objectUrn": "urn:li:company:5323352",
+                "entityUrn": "urn:li:fs_miniCompany:5323352",
+                "name": "IIENSTITU",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1562767462537?e=1695254400&v=beta&t=R3BOQOsLdXTRWzkIomFoszlOsPLMxynrkpNDN8GuZcg",
+                                "expiresAt": 1695254400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1562767462537?e=1695254400&v=beta&t=BDT2bDWjFzBkqPLqT9JVeDz5ph8mPwatmuYElgjLs7M",
+                                "expiresAt": 1695254400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1562767462537?e=1695254400&v=beta&t=Uki4lQHYNequX2qwiQISf6m5UWkoR8GvDrrJP1XLXc8",
+                                "expiresAt": 1695254400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQGOk06T_rCdng/company-logo_"
+                    }
+                },
+                "universalName": "istanbul-i\u015fletme-enstit\u00fcs\u00fc",
+                "dashCompanyUrn": "urn:li:fsd_company:5323352",
+                "trackingId": "eE9WF6VcSfOg/pWoI8xC6Q=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:5323352"
+        },
+        {
+            "authority": "\u0130stanbul \u0130\u015fletme Enstit\u00fcs\u00fc",
+            "name": "Excel E\u011fitimi",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2020
+                }
+            },
+            "licenseNumber": "050700540046",
+            "company": {
+                "objectUrn": "urn:li:company:5323352",
+                "entityUrn": "urn:li:fs_miniCompany:5323352",
+                "name": "IIENSTITU",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1562767462537?e=1695254400&v=beta&t=R3BOQOsLdXTRWzkIomFoszlOsPLMxynrkpNDN8GuZcg",
+                                "expiresAt": 1695254400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1562767462537?e=1695254400&v=beta&t=BDT2bDWjFzBkqPLqT9JVeDz5ph8mPwatmuYElgjLs7M",
+                                "expiresAt": 1695254400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1562767462537?e=1695254400&v=beta&t=Uki4lQHYNequX2qwiQISf6m5UWkoR8GvDrrJP1XLXc8",
+                                "expiresAt": 1695254400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQGOk06T_rCdng/company-logo_"
+                    }
+                },
+                "universalName": "istanbul-i\u015fletme-enstit\u00fcs\u00fc",
+                "dashCompanyUrn": "urn:li:fsd_company:5323352",
+                "trackingId": "W1DXdRXNQ+eX+uiA3fxSLQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:5323352"
+        },
+        {
+            "authority": "\u0130stanbul \u0130\u015fletme Enstit\u00fcs\u00fc",
+            "name": "\u0130leri Excel E\u011fitimi",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2020
+                }
+            },
+            "licenseNumber": "050702670007",
+            "company": {
+                "objectUrn": "urn:li:company:5323352",
+                "entityUrn": "urn:li:fs_miniCompany:5323352",
+                "name": "IIENSTITU",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1562767462537?e=1695254400&v=beta&t=R3BOQOsLdXTRWzkIomFoszlOsPLMxynrkpNDN8GuZcg",
+                                "expiresAt": 1695254400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1562767462537?e=1695254400&v=beta&t=BDT2bDWjFzBkqPLqT9JVeDz5ph8mPwatmuYElgjLs7M",
+                                "expiresAt": 1695254400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1562767462537?e=1695254400&v=beta&t=Uki4lQHYNequX2qwiQISf6m5UWkoR8GvDrrJP1XLXc8",
+                                "expiresAt": 1695254400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQGOk06T_rCdng/company-logo_"
+                    }
+                },
+                "universalName": "istanbul-i\u015fletme-enstit\u00fcs\u00fc",
+                "dashCompanyUrn": "urn:li:fsd_company:5323352",
+                "trackingId": "bZfnhM9CSOuKpOK4QwGbkw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:5323352"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}
