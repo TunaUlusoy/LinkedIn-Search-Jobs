@@ -1,1 +1,1 @@
-# LinkedIn-Message-Sender
+# LinkedIn-Search-Jobs
