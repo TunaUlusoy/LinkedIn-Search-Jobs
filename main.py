@@ -1,18 +1,78 @@
-import json
-from linkedin_api import Linkedin
+import pandas as pd
+import streamlit as st
+from search import Search
 
-api = Linkedin(username= 'tunaeem@gmail.com', password='tunahan1907')
+st.title("Search")
 
-profile = api.search_jobs(experience=["2", "3"],
-                          job_type=["F"],
-                          location_name="Germany",
-                          job_title="3612005251",
-                          remote=False,
-                          limit=15) # 'büşra-ersoy-126994170'
+tab1, tab2, tab3 = st.tabs(["Search", "Jobs", "Keywords"])
 
-json_object = json.dumps(profile, indent=4)
-with open("sample2.json", "w") as outfile:
-    outfile.write(json_object)
 
-# https://linkedin-api.readthedocs.io/en/latest/api.html
-# https://github.com/tomquirk/linkedin-api/tree/master
+def color(string):
+    st.markdown(f'<p style="color:#FFA500;font-size:19px;">{string}</p>', unsafe_allow_html=True)
+
+
+def process(df, page_number):
+    row = df.iloc[int(page_number) - 1]
+
+    color('Job Title')
+    st.write(row["Job Title"])
+    color('Job Description')
+    st.write(row["Job Description"])
+    color('Remote')
+    st.write(row["Remote"])
+    color('Company Name')
+    st.write(row["Company Name"])
+    color('Company Description')
+    st.write(row["Company Description"])
+    color('Company Size')
+    st.write(row["Company Size"])
+    color('Countries')
+    st.write(row["Countries"])
+    color('Cities')
+    st.write(row["Cities"])
+    color('Official Website')
+    st.write(row["Official Website"])
+    color('Linkedin URL')
+    st.write(row["Linkedin URL"])
+    color('Foundation Year')
+    st.write(str(row["Foundation Year"]))
+
+
+with tab1:
+    username = st.text_input("Enter your LinkedIn username:")
+    password = st.text_input("Enter your LinkedIn password:", type="password")
+    keywords = st.text_input("Enter job keywords:", key=11)
+    location_name = st.text_input("Enter location name:", key=21)
+    day = st.slider("Enter how many days passed since job posting:", 1, 60, 1)
+    limit = st.slider("Enter limit job was listed:", 1, 200, 1)
+
+    if st.button("Search", key=41):
+        st.text("Searching for jobs...")
+        search = Search(username, password, keywords, location_name, day, limit)
+        results = search.search_results()
+        rows = search.get_requirements_from_results(results)
+        st.text(f"Completed, {len(rows)} jobs was found.")
+
+upload_flag = False
+
+with tab2:
+    uploaded_file = st.file_uploader("Choose a file")
+
+    if uploaded_file is not None:
+        df = pd.read_csv(uploaded_file.name)
+        if len(df) == 0:
+            st.header("**There is no job :cry:**")
+        elif len(df) == 1:
+            st.header("**There is one job :neutral_face:**")
+            process(df, 1)
+        else:
+            st.header(f"**There are {len(df)} jobs :smile:**")
+            page_number = st.slider("Enter job number :", 1, len(df), 1)
+            process(df, page_number)
+
+with tab3:
+    pass
+
+# TODO
+#  Country ve cities liste içerisinde
+#  Summarize the description, keywords
