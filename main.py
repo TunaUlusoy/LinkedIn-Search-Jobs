@@ -56,7 +56,7 @@ with tab2:
 
 with tab3:
     pass
+    # TODO
+    #  Summarize the description, extract keywords
 
-# TODO
-#  Country ve cities liste içerisinde
-#  Summarize the description, keywords
+
