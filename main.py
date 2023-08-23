@@ -16,7 +16,7 @@ def process(df, page_number):
 
     for i in df.columns:
         color(i)
-        if type(row[i]) == str:
+        if type(row[i]) == int:
             st.write(str(row[i]))
         else:
             st.write(row[i])
@@ -28,7 +28,7 @@ with tab1:
     keywords = st.text_input("Enter job keywords:", key=11)
     location_name = st.text_input("Enter location name:", key=21)
     day = st.slider("Enter how many days passed since job posting:", 1, 60, 1)
-    limit = st.slider("Enter limit job was listed:", 1, 200, 1)
+    limit = st.slider("Enter list limit:", 1, 200, 1)
 
     if st.button("Search", key=41):
         st.text("Searching for jobs...")
@@ -57,6 +57,4 @@ with tab2:
 with tab3:
     pass
     # TODO
-    #  Summarize the description, extract keywords
-
-
+    #  Summarize the description, keywords
