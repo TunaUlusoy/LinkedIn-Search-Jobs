@@ -14,28 +14,12 @@ def color(string):
 def process(df, page_number):
     row = df.iloc[int(page_number) - 1]
 
-    color('Job Title')
-    st.write(row["Job Title"])
-    color('Job Description')
-    st.write(row["Job Description"])
-    color('Remote')
-    st.write(row["Remote"])
-    color('Company Name')
-    st.write(row["Company Name"])
-    color('Company Description')
-    st.write(row["Company Description"])
-    color('Company Size')
-    st.write(row["Company Size"])
-    color('Countries')
-    st.write(row["Countries"])
-    color('Cities')
-    st.write(row["Cities"])
-    color('Official Website')
-    st.write(row["Official Website"])
-    color('Linkedin URL')
-    st.write(row["Linkedin URL"])
-    color('Foundation Year')
-    st.write(str(row["Foundation Year"]))
+    for i in df.columns:
+        color(i)
+        if type(row[i]) == str:
+            st.write(str(row[i]))
+        else:
+            st.write(row[i])
 
 
 with tab1:
